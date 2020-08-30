@@ -1,5 +1,5 @@
 # Lakerfield.ConsoleMenu
-A simple fluent console menu build in C# / .Net. 
+A simple fluent console menu build in C# with support for asynchronously executing tasks
 
 ## Packages
 Published as a [NuGet package](https://www.nuget.org/packages/Lakerfield.ConsoleMenu)

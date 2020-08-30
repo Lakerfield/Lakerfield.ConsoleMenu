@@ -12,6 +12,7 @@
     <PackageProjectUrl>https://github.com/Lakerfield/Lakerfield.ConsoleMenu</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Lakerfield/Lakerfield.ConsoleMenu</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A simple fluent console menu build in C# with support for asynchronously executing tasks</Description>
   </PropertyGroup>
 
 </Project>
