@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>netstandard1.3;netstandard2.0;netstandard2.1</TargetFrameworks>
+    <RootNamespace>Lakerfield.ConsoleMenu</RootNamespace>
+    <PackageId>Lakerfield.ConsoleMenu</PackageId>
+    <Authors>Michael Lakerveld</Authors>
+    <Company>Lakerfield B.V.</Company>
+    <Product>Lakerfield Console Menu</Product>
+    <Copyright>Lakerfield B.V.</Copyright>
+    <PackageProjectUrl>https://github.com/Lakerfield/Lakerfield.ConsoleMenu</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Lakerfield/Lakerfield.ConsoleMenu</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
