@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleMenu\ConsoleMenu.csproj" />
+    <ProjectReference Include="..\Lakerfield.ConsoleMenu\Lakerfield.ConsoleMenu.csproj" />
   </ItemGroup>
 
 </Project>

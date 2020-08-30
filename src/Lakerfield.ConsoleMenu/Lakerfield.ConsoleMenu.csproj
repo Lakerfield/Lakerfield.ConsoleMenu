@@ -11,6 +11,7 @@
     <Copyright>Lakerfield B.V.</Copyright>
     <PackageProjectUrl>https://github.com/Lakerfield/Lakerfield.ConsoleMenu</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Lakerfield/Lakerfield.ConsoleMenu</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
