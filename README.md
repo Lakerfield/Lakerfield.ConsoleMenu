@@ -13,14 +13,14 @@ await ConsoleMenu.RunMainMenuAndWaitForCompletion(
   menu =>
   {
     // Add option
-    sub.Add(ConsoleKey.H, "Say Hi", async () =>
+    menu.Add(ConsoleKey.H, "Say Hi", async () =>
     {
       await Task.Delay(100);
       Console.WriteLine("Hi");
     });
 
     // Nothing
-    sub.Add(ConsoleKey.N, "Nothing", () => Task.CompletedTask);
+    menu.Add(ConsoleKey.N, "Nothing", () => Task.CompletedTask);
   }, 
   onlyExitWhenPressingQuit: false);
   ```
